@@ -6,6 +6,6 @@ la **POO**, **Spring Data JPA** et les **tests unitaires avec Mockito**.
 - Appliquer les principes SOLID
 - Mettre en pratique la POO (encapsulation, abstraction, héritage, polymorphisme)
 - Persister les données avec Spring Data JPA
-- Tester le controlleur avec JUnit 5 et Mockito
+- Tester la couche presentation "Controller" avec JUnit 5 et Mockito
 - Structurer l'application en couches (Controller / Service / Repository)
 
